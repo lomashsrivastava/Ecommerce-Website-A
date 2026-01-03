@@ -1,6 +1,6 @@
 # Lomash Markets | Future of Commerce 🚀
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://lomashsrivastava.github.io/Ecommerce-Website-A/)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://ecoma1.netlify.app/)
 
 
 Welcome to **Lomash Markets**, a futuristic, neon-themed e-commerce landing page designed to showcase the next generation of online shopping experiences. This project leverages cutting-edge web technologies to create an immersive, interactive, and visually stunning user interface.
