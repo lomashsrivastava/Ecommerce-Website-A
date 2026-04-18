@@ -43,3 +43,12 @@ This project represents a vision for modern, high-performance e-commerce interfa
 *© 2026 Lomash Markets. All Rights Reserved.*
 
 Designed And Developed By Lomash Srivastava
+
+
+![Stars](https://img.shields.io/github/stars/lomashsrivastava/=social)
+![Forks](https://img.shields.io/github/forks/lomashsrivastava/=social)
+
+
+## ?? Screenshots
+Add screenshots here (./screenshots folder)
+
