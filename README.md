@@ -41,3 +41,5 @@ This project represents a vision for modern, high-performance e-commerce interfa
 
 ---
 *© 2026 Lomash Markets. All Rights Reserved.*
+
+Designed And Developed By Lomash Srivastava
